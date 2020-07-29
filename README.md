@@ -66,14 +66,14 @@ Ideia do projeto: [Aqui](https://github.com/florinpop17/app-ideas/blob/master/Pr
 
 ### User Stories
 
--   [-] Usuário pode inserir mais de 8 digitos binários em um input.
--   [-] Usuário deve ser notificado se algo diferente de 0 e 1 foi digitado.
--   [-] Usuário vê o resultado em um único campo de saída contendo os decimais (base 10) equivalente ao valor binário digitado.
+-   [x] Usuário pode inserir mais de 8 digitos binários em um input.
+-   [ ] Usuário deve ser notificado se algo diferente de 0 e 1 foi digitado.
+-   [x] Usuário vê o resultado em um único campo de saída contendo os decimais (base 10) equivalente ao valor binário digitado.
 
 ### Bonus features
 
--   [-] Usuário pode inserir vários números binários
--   [-] Usuário não pode digitar nada além de 0 e 1.
+-   [x] Usuário pode inserir vários números binários
+-   [ ] Usuário não pode digitar nada além de 0 e 1.
 
 ## :rocket: Iniciando
 

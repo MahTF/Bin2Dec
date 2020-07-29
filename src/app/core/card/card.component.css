@@ -54,10 +54,9 @@
     color: #000000;
 }
 
-.input-binario {
+.input {
     background: #D1C4E9;
 
-    position: absolute;
     width: 280px;
     height: 48px;
     left: 257px;
@@ -69,7 +68,7 @@
     width: 519.5px;
     height: 32px;
     left: 39.5px;
-    top: 200px;
+    top: 192px;
 }
 
 .decimal .texto{
@@ -90,12 +89,15 @@
     color: #000000;
 }
 
-.input-decimal {    
-    background: #D1C4E9;
-
+.botao {
     position: absolute;
-    width: 280px;
-    height: 48px;
-    left: 257px;
-    top: -16px;
+    width: 76px;
+    height: 46px;
+    bottom: 16px;
+    justify-content: center;
+    align-items: center;
+    left: 40%;
+    background-color: #D1C4E9;
+    box-shadow: none;
+    border-radius: 8px;
 }
